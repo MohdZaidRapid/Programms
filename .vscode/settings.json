@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.cpp": "cpp",
+    "*.js": "javascriptreact",
+    "*.me": "markdown",
+    "*.git": "github",
+    "*.hbs": "handlebars",
+    "unordered_map": "cpp"
+  }
+}
